@@ -35,11 +35,12 @@ header > h1 {
    
 }
 span {
-    font-size: 70px;
+    font-size: 4rem;
     font-weight: normal;
 }
 header > p > a {
-    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
     text-decoration: none;
     color: white;
     margin-bottom: 45px;
@@ -50,7 +51,7 @@ header > p > a {
 section {
     font-family: 'Sriracha', cursive;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 2rem;
 
 }
 section > p {
